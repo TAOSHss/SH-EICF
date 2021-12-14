@@ -1,5 +1,4 @@
-# SH-EICF
-Effective image classification framework
+# SH-EICF (Effective image classification framework)
 
 -[Updated](#whats-new)
 
